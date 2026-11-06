@@ -1,0 +1,11 @@
+{
+  "name": "runheed",
+  "version": "1.0.0",
+  "description": "Error tracking your coding agent can read. Search production errors, read stack traces with context, fix them and mark them resolved.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "runheed": {
+      "httpUrl": "https://runheed.com/api/mcp"
+    }
+  }
+}

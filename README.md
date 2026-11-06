@@ -27,6 +27,7 @@ Or add the server directly:
 | ChatGPT | Plugins > + > Add custom MCP server, URL `https://runheed.com/api/mcp`, OAuth |
 | Cursor | Add `{"mcpServers": {"runheed": {"url": "https://runheed.com/api/mcp"}}}` to `~/.cursor/mcp.json`, then sign in from Cursor Settings > MCP |
 | Google Antigravity | `agy plugin install https://github.com/getrunheed/runheed-plugin` (this repo is also an Antigravity plugin: `.antigravity-plugin/plugin.json` + `mcp_config.json`), or add `{"mcpServers": {"runheed": {"serverUrl": "https://runheed.com/api/mcp"}}}` to `~/.gemini/config/mcp_config.json` and click Authenticate under Customizations |
+| Gemini CLI | `gemini extensions install https://github.com/getrunheed/runheed-plugin` |
 
 Then add the SDK to your app (Node.js / TypeScript, Python, or plain HTTP). Your agent can do both steps from https://runheed.com/SETUP.txt.
 

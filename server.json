@@ -3,7 +3,7 @@
   "name": "com.runheed/runheed",
   "title": "Runheed",
   "description": "Production errors your coding agent can read: search, stack traces, context, trends, resolve.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://runheed.com",
   "remotes": [
     {
@@ -18,5 +18,9 @@
         }
       ]
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/getrunheed/runheed-plugin",
+    "source": "github"
+  }
 }
