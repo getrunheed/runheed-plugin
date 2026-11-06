@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Runheed",
+      "description": "Read and resolve your app's production errors from your coding agent.",
+      "skills": [
+        "runheed"
+      ]
+    }
+  ]
+}

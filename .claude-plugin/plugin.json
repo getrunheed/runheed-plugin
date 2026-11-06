@@ -1,0 +1,15 @@
+{
+  "name": "runheed",
+  "displayName": "Runheed",
+  "version": "1.0.0",
+  "description": "Error tracking your coding agent can read. Search production errors, read stack traces with context, fix them and mark them resolved, through the Runheed MCP server.",
+  "author": {
+    "name": "Great Work LLC",
+    "email": "hello@greatwork.company",
+    "url": "https://runheed.com"
+  },
+  "homepage": "https://runheed.com",
+  "repository": "https://github.com/getrunheed/runheed-plugin",
+  "license": "MIT",
+  "keywords": ["error tracking", "debugging", "production errors", "coding agents", "mcp", "claude code"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "runheed",
+  "owner": {
+    "name": "Runheed",
+    "url": "https://runheed.com"
+  },
+  "metadata": {
+    "description": "Error tracking your coding agent can read: Runheed MCP server plus an agent skill."
+  },
+  "plugins": [
+    {
+      "name": "runheed",
+      "source": "./",
+      "description": "Read your app's production errors, fix them and resolve them from your coding agent."
+    }
+  ]
+}

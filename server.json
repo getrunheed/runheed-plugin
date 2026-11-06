@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.runheed/runheed",
+  "title": "Runheed",
+  "description": "Production errors your coding agent can read: search, stack traces, context, trends, resolve.",
+  "version": "1.0.0",
+  "websiteUrl": "https://runheed.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://runheed.com/api/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer followed by a Runheed agent key (al_...), from Settings > Agent keys. Not needed by clients that sign in with OAuth.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

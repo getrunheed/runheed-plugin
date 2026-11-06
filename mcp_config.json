@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "runheed": {
+      "serverUrl": "https://runheed.com/api/mcp"
+    }
+  }
+}

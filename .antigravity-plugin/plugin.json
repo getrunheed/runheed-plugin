@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "runheed",
+  "displayName": "Runheed",
+  "version": "1.0.0",
+  "description": "Error tracking your coding agent can read: search production errors, read stack traces with context, fix the code and mark errors resolved.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What broke in production since the last deploy? Fix the top error and resolve it with the commit hash",
+    "Show the stack trace and request for the newest unresolved error in this project",
+    "Did errors go up after yesterday's deploy? Compare the last 24 hours with the last 7 days"
+  ],
+  "author": {
+    "name": "Great Work LLC",
+    "url": "https://runheed.com"
+  },
+  "homepage": "https://runheed.com/connect/antigravity",
+  "repository": "https://github.com/getrunheed/runheed-plugin",
+  "license": "MIT",
+  "keywords": [
+    "error tracking",
+    "debugging",
+    "production errors",
+    "stack traces",
+    "mcp",
+    "nodejs",
+    "python"
+  ]
+}
