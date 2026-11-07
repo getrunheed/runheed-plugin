@@ -8,6 +8,16 @@ Error tracking your coding agent can read. Runheed catches exceptions in your No
 
 This repo holds the Claude Code plugin, the Google Antigravity plugin, the agent skill and the MCP config. The Runheed service itself is hosted.
 
+## Try it first
+
+A demo server holds invented sample errors. It takes no account or key, and nothing is saved:
+
+```
+claude mcp add --transport http runheed-demo https://runheed.com/api/mcp/demo
+```
+
+Then ask your agent: "What is the top Runheed error, and what would you change?" Setup for other clients: https://runheed.com/demo#try
+
 ## Install
 
 Claude Code plugin (signs you in on first use, no key to copy):
