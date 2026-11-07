@@ -75,6 +75,10 @@ Events over your plan's limit are rejected, never charged. Details: https://runh
 
 Questions: hello@greatwork.company. Issues and pull requests for the skill and plugin files are welcome here.
 
+## Privacy
+
+Privacy policy: https://runheed.com/privacy. Terms: https://runheed.com/terms
+
 ## License
 
 MIT. Runheed is made by Great Work LLC.
