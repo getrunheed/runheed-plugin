@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "runheed": {
-      "type": "http",
-      "url": "https://runheed.com/api/mcp"
-    }
-  }
-}

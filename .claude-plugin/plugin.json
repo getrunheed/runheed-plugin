@@ -11,5 +11,19 @@
   "homepage": "https://runheed.com",
   "repository": "https://github.com/getrunheed/runheed-plugin",
   "license": "MIT",
-  "keywords": ["error tracking", "debugging", "production errors", "coding agents", "mcp", "claude code"]
+  "privacyPolicyUrl": "https://runheed.com/privacy",
+  "keywords": [
+    "error tracking",
+    "debugging",
+    "production errors",
+    "coding agents",
+    "mcp",
+    "claude code"
+  ],
+  "mcpServers": {
+    "runheed": {
+      "type": "http",
+      "url": "https://runheed.com/api/mcp"
+    }
+  }
 }
