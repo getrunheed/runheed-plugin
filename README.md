@@ -75,6 +75,10 @@ Events over your plan's limit are rejected, never charged. Details: https://runh
 
 Questions: hello@greatwork.company. Issues and pull requests for the skill and plugin files are welcome here.
 
+## Network access
+
+The plugin's only network endpoint is runheed.com (`https://runheed.com/api/mcp`). It contains no scripts that run on your machine.
+
 ## Privacy
 
 Privacy policy: https://runheed.com/privacy. Terms: https://runheed.com/terms
