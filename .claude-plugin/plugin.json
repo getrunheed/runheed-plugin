@@ -12,6 +12,9 @@
   "repository": "https://github.com/getrunheed/runheed-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://runheed.com/privacy",
+  "termsOfServiceUrl": "https://runheed.com/terms",
+  "supportUrl": "https://runheed.com/about",
+  "documentationUrl": "https://runheed.com/docs",
   "keywords": [
     "error tracking",
     "debugging",
